@@ -1,0 +1,1 @@
+create or replace role Ds_Owner_Test;

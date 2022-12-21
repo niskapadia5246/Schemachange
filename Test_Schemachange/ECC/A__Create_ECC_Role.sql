@@ -1,0 +1,1 @@
+create or replace role DS_Owner2;
