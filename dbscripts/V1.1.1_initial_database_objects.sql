@@ -1,7 +1,0 @@
-create schema CICD_DEMO;
-
-CREATE TABLE CICD_TABLE 
-(
-    CID INTEGER
-    CNAME VARCHAR
-)
