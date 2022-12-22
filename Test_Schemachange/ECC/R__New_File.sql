@@ -1,0 +1,1 @@
+select * from TEST.EDW.EDW where id = 1;
